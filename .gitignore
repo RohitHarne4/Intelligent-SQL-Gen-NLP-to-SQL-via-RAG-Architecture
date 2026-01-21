@@ -1,0 +1,21 @@
+# Virtual Environment
+etc/
+Include/
+Lib/
+Scripts/
+share/
+pyvenv.cfg
+
+# Environment variables
+.env
+
+# Ignore unused app files
+app.py
+NewApp.py
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
